@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,whatsmydns.me
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
+IP-CIDR,140.83.49.58/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
